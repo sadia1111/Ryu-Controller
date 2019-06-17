@@ -1,0 +1,1 @@
+simple controller code with a flow entry to block packets of certain host with acertain ip address, all the other packets goes to the desired destinations.
